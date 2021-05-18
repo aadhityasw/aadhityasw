@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./header.gif" height=300 width=700>
+</p>
+
+
 ### Hi there 👋
 
 <!--
