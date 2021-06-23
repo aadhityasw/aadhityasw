@@ -15,6 +15,11 @@ jobs:
     steps:
       - name: checkout repository
         uses: actions/checkout@v2
+      
+      - name: updates the recent activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: setup python
         uses: actions/setup-python@v2
