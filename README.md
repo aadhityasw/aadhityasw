@@ -53,15 +53,15 @@
   <code><img src="./assets/img/tensorflow.png" alt="tensorflow" width="40" height="40"/></code>
 
   <pre>🌎 Web Development </pre>
-  &emsp;&emsp;&emsp;
-  <code><img src="./assets/img/django-original.svg" alt="python" width="70" height="60"/></code>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;
+  <code><img src="./assets/img/django-original.svg" alt="django" width="70" height="60"/></code>
+  &emsp;&emsp;
   <code><img src="./assets/img/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></code> 
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;
   <code><img src="./assets/img/html5-original-wordmark.svg" alt="html" width="40" height="60"/></code>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;
   <code><img src="./assets/img/css3-original-wordmark.svg" alt="css" width="40" height="60"/></code>
-  &emsp;&emsp;&emsp;
+  &emsp;&emsp;
   <code><img src="./assets/img/javascript-original.svg" alt="css" width="40" height="50"/></code> 
   
   <pre>👨🏻‍💻 Development Environment Stack </pre>
@@ -78,10 +78,10 @@
 ---
 
 
-## :zap: Competitive Programming Profiles
+## :zap: Programming Profiles
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://www.hackerrank.com/aadhityasw"><img src="./assets/img/hackerrank-logo.png" width="50" height="50" alt="hackerrank" /></a>
   &emsp;&emsp;&emsp;
   <a href="https://www.codechef.com/users/aadhityas"><img src="./assets/img/codechef-logo.png" width="130" height="50" alt="codechef" /></a>
@@ -89,6 +89,7 @@
   <a href="https://auth.geeksforgeeks.org/user/kabsuki/practice/"><img src="./assets/img/geeksforgeeks-logo.png" width="70" height="50" alt="geeksforgeeks" /></a>
   &emsp;&emsp;&emsp;
   <a href="https://leetcode.com/aadhityasw/"><img src="./assets/img/leetcode-logo.png" width="50" height="50" alt="leetcode" /></a>
+  <!-- Add Github, kaggle, docker -->
 </p>
 <br><br>
 
