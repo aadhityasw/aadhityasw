@@ -32,12 +32,12 @@
 ---
 
 
-<img src="./assets/img/programmer.jpg" align="left" width="40%" height="570">
+<img src="./assets/img/programmer.jpg" align="left" width="30%" height="600">
 
 <h2 align="center"> :zap: My Tech Toolbox 🛠  </h2>
 
 <!--START_SECTION:my_tech_toolbox-->
-<p align="left" width="50%">
+<p align="center" width="50%">
   
   <pre>🖥  Programming Languages </pre>
   &emsp;&emsp;&emsp;
