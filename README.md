@@ -114,9 +114,19 @@
 
 ## :zap: Github Profile Stats
 
+<br>
 <!--START_SECTION:github_profile_stats-->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadhityasw&show_icons=true&theme=calm&count_private=true&border_radius=15&include_all_commits=true&hide_border=true" width="60%" alt="aadhitya's github stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhityasw&theme=calm&border_radius=15&langs_count=8&layout=compact&hide_border=true" width="40%"  alt="aadhitya's top languages used" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhityasw&theme=calm&hide_border=true" alt="aadhitya's github streak" width="55%" />
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=aadhityasw&theme=rogue&hide_border=true&color=df7b5f&bg_color=373f51&line=e6caaf&point=ecae49" width="80%" alt="aadhitya's contribution graph" />
+</p>
 <!--END_SECTION:github_profile_stats-->
+<br><br>
+
 
 ---
 
