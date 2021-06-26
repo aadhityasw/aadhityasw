@@ -64,13 +64,13 @@
   <pre>🌎 Web Development </pre>
   &emsp;
   <code><img src="./assets/img/django-original.svg" alt="django" width="70" height="60"/></code>
-  &emsp;&emsp;
+  &emsp;
   <code><img src="./assets/img/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></code> 
-  &emsp;&emsp;
+  &emsp;
   <code><img src="./assets/img/html5-original-wordmark.svg" alt="html" width="40" height="60"/></code>
-  &emsp;&emsp;
+  &emsp;
   <code><img src="./assets/img/css3-original-wordmark.svg" alt="css" width="40" height="60"/></code>
-  &emsp;&emsp;
+  &emsp;
   <code><img src="./assets/img/javascript-original.svg" alt="css" width="40" height="50"/></code> 
   
   <pre>👨🏻‍💻 Development Environment Stack </pre>
