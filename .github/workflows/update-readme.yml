@@ -21,13 +21,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: setup python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
+      #- name: setup python
+      #  uses: actions/setup-python@v2
+      #  with:
+      #    python-version: '3.x'
       
-      - name: execute python script
-        run: python update_readme.py
+      #- name: execute python script
+      #  run: python update_readme.py
       
       - name: commit files
         run: |
