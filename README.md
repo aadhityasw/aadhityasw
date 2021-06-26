@@ -135,17 +135,7 @@
 ---
 
 
-## :zap: Recent Activity ⌨️
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-
 <br>
-
-
----
-
-
 ` This isn't the End, but is just the beginning of a beautiful Journey 🛣  `
+<br><br>
+**Status of Github Action Workflow managing this README File :** [![Update README File](https://github.com/aadhityasw/aadhityasw/actions/workflows/update-readme.yml/badge.svg)](https://github.com/aadhityasw/aadhityasw/actions/workflows/update-readme.yml)
