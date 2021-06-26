@@ -1,13 +1,17 @@
+<br><br>
 <!--START_SECTION:header_gif-->
 <p align="center">
   <img src="./assets/gif/header.gif" height=300 width=700>
 </p>
 <!--END_SECTION:header_gif-->
 
-<br><br>
+<br>
 
 
 ---
+
+
+<img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="190">
 
 
 ## :zap: About Me 👋
@@ -32,7 +36,7 @@
 ---
 
 
-<img src="./assets/img/programmer.jpg" align="left" width="30%" height="600">
+<img src="./assets/img/programmer.jpg" align="left" width="40%" height="600">
 
 <h2 align="center"> :zap: My Tech Toolbox 🛠  </h2>
 
@@ -106,7 +110,7 @@
 </p>
 <!--END_SECTION:programming_profiles-->
 
-<br><br>
+<br>
 
 
 ---
@@ -122,10 +126,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhityasw&theme=calm&border_radius=15&langs_count=8&layout=compact&hide_border=true" width="40%"  alt="aadhitya's top languages used" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadhityasw&theme=calm&hide_border=true" alt="aadhitya's github streak" width="55%" />
   <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=aadhityasw&theme=rogue&hide_border=true&color=df7b5f&bg_color=373f51&line=e6caaf&point=ecae49" width="80%" alt="aadhitya's contribution graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=aadhityasw&theme=rogue&hide_border=true&color=df7b5f&bg_color=373f51&line=e6caaf&point=ecae49" width="90%" alt="aadhitya's contribution graph" />
 </p>
 <!--END_SECTION:github_profile_stats-->
-<br><br>
+<br>
 
 
 ---
@@ -138,7 +142,7 @@
 <!--END_SECTION:activity-->
 
 
-<br><br>
+<br>
 
 
 ---
