@@ -12,7 +12,7 @@
 
 
 <!--<img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="190">-->
-<img align='right' src="./assets/gif/face_id_effect.gif" height="190">
+<img align='right' src="./assets/gif/face_id_effect.gif" height="200">
 
 ## :zap: About Me 👋
 
@@ -51,7 +51,9 @@
   &emsp;&emsp;&emsp;
   <code><img src="./assets/img/cplusplus-original.svg" alt="cpp" width="40" height="40"/></code>
   &emsp;&emsp;&emsp;
-  <code><img src="./assets/img/c-original.svg" alt="c" width="40" height="40"/></code> 
+  <code><img src="./assets/img/c-original.svg" alt="c" width="40" height="40"/></code>
+  <!--&emsp;&emsp;&emsp;
+  <code><img src="./assets/img/matlab.png" alt="matlab" width="40" height="40"/></code>-->
 
   <pre>🚀  Machine Learning </pre>
   &emsp;&emsp;&emsp;
@@ -105,6 +107,8 @@
   <a href="https://hub.docker.com/u/aadhityasw"><img src="./assets/img/docker-full-logo.png" alt="docker-hub" width="150" height="50"/></a>
   &emsp;&emsp;
   <a href="https://github.com/aadhityasw"><img src="./assets/img/github-logo.png" alt="github" width="50" height="50"/></a>
+  &emsp;&emsp;
+  <a href="https://gitlab.com/aadhityasw"><img src="./assets/img/gitlab-logo.png" alt="gitlab" width="50" height="50"/></a>
   <!--&emsp;&emsp;
   <a href="https://www.kaggle.com/aadhityas"><img src="./assets/img/kaggle-logo.png" alt="kaggle" width="110" height="50"/></a>-->
 </p>
