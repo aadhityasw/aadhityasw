@@ -11,8 +11,8 @@
 ---
 
 
-<img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="190">
-
+<!--<img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" height="190">-->
+<img align='right' src="./assets/gif/face_id_effect.gif" height="190">
 
 ## :zap: About Me 👋
 
