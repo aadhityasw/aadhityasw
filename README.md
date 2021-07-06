@@ -17,8 +17,8 @@
 ## :zap: About Me 👋
 
 <!--START_SECTION:about_me-->
-- 🔭 &emsp; I’m currently exploring the depths of Programming
-- 🌱 &emsp; I’m currently learning Competitive Programming
+- 🔭 &emsp; Exploring the depths of AI, ML & Neural Networks
+- 🌱 &emsp; Plunging into the depths of Cybersecurity
 - 💬 &emsp; Ask me about anything🤫, `sky's the limit`
 - 📫 &emsp; How to reach me: 
 &emsp;
